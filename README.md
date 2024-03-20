@@ -16,11 +16,17 @@
   
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="LIEN_VERS_VOTRE_PROFIL_LINKEDIN" target="_blank" rel="noreferrer"><img src="https://www.linkedin.com/in/rahma-jemai-/" alt="LinkedIn" width="40" height="40" title="LinkedIn"></a>
-  
-  <!-- Ajoutez d'autres liens et logos pour d'autres plateformes
-  <a href="LIEN_VERS_VOTRE_PROFIL_GITHUB" target="_blank" rel="noreferrer"><img src="LIEN_VERS_VOTRE_LOGO_GITHUB" alt="GitHub" width="40" height="40" title="GitHub"></a> -->
+  <a href="https://www.linkedin.com/in/rahma-jemai-/" target="_blank" rel="noreferrer">
+    <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="40" height="40" title="LinkedIn">
+ </a>
+  <!-- Ajoutez d'autres liens et logos pour d'autres plateformes -->
   </p>
+
+  ### About Me
+
+  <p>I'm Rahma Jemai from Tunisia, passionate about the field of data science, with a solid background in data analysis and machine learning engineering. I specialize in natural language processing and automatic 
+  speech recognition (ASR). My goal is to tackle complex problems by harnessing the power of data and artificial intelligence.</p>
+
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
