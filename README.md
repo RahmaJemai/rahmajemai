@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RahmaJemai/rahmajemai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Rahma Jemai
 
-Here are some ideas to get you started:
+### Data Scientist | Data Analyst | Machine Learning | Natural Language Processing | ASR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Rahma Jemai from Tunisia, passionate about the field of data science, with a solid background in data analysis and machine learning engineering. I specialize in natural language processing and automatic speech recognition (ASR). My goal is to tackle complex problems by harnessing the power of data and artificial intelligence.
+
+### Compétences
+
+- **Langages de programmation :** Python, R, SQL
+- **Apprentissage automatique :** Machine learning, Deep Learning, Traitement du langage naturel (NLP), Reconnaissance automatique de la parole (ASR)
+- **Outils & Bibliothèques :** TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK..
+- **Visualisation des données :** Tableau, Plotly, Powerbi
+- **Technologies Big Data :** Apache Spark, Hadoop
+- **Contrôle de version :** Git, GitHub
+- **Bases de données :** MySQL, PostgreSQL, MongoDB
