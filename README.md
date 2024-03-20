@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET">
     <!-- Ajoutez d'autres outils et leurs logos correspondants -->
 </p>
-### Projects
+Projects
 
 <ul>
   <li>
