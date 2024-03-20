@@ -4,43 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .header {
-            text-align: center;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .skills {
-            display: flex;
-            justify-content: space-around;
-            padding: 20px;
-        }
-        .skills img {
-            width: 40px;
-            height: 40px;
-            margin: 10px;
-        }
-        .projects ul {
-            padding: 0;
-        }
-        .projects li {
-            margin-bottom: 20px;
-        }
-        .contact {
-            text-align: center;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-    </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Rahma Jemai</h1>
