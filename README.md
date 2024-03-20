@@ -4,6 +4,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .skills {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .skills img {
+            width: 40px;
+            height: 40px;
+            margin: 10px;
+        }
+        .projects ul {
+            padding: 0;
+        }
+        .projects li {
+            margin-bottom: 20px;
+        }
+        .contact {
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+    </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Rahma Jemai</h1>
@@ -17,8 +54,8 @@
   <h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/rahma-jemai-/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/linkedin_logo.png" alt="LinkedIn" width="40" height="40" title="LinkedIn">
- </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
+  </a>
   <!-- Ajoutez d'autres liens et logos pour d'autres plateformes -->
   </p>
 
@@ -55,7 +92,7 @@
     <strong>Sentiment Analysis with NLP</strong>
     <ul>
       <li>Developed a sentiment analysis model using NLP techniques to understand customer opinions and improve satisfaction.</li>
-      <li><a href="LINK_TO_YOUR_PROJECT_1" target="_blank">GitHub Link</a></li>
+      <!-- <li><a href="LINK_TO_YOUR_PROJECT_1" target="_blank">GitHub Link</a></li> -->
     </ul>
   </li>
 
@@ -63,7 +100,7 @@
     <strong>Speech Recognition with Deep Learning</strong>
     <ul>
       <li>Created a speech recognition model (ASR) based on deep neural networks for increased accuracy in audio transcription.</li>
-      <li><a href="LINK_TO_YOUR_PROJECT_2" target="_blank">GitHub Link</a></li>
+      <!-- <li><a href="LINK_TO_YOUR_PROJECT_2" target="_blank">GitHub Link</a></li> -->
     </ul>
   </li>
   
