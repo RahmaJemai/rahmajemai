@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rahma Jemai - Data Scientist</title>
 </head>
 <body>
 
@@ -12,7 +11,7 @@
   <h3 style="text-align: center;">Data Scientist from & Data Analyst & Machine Learning & Natural Language Processing & ASR</h3>
   
   <ul style="text-align: center;">
-    <span style="margin-right: 5px;">👔</span>I’m currently working at Zeta Technologie
+    <li><span style="margin-right: 5px;">👔</span>I’m currently working at Zeta Technologie</li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/RahmaJemai">https://github.com/RahmaJemai</a></li>
     <li>📫 How to reach me: <strong>jemaia.rahma@gmail.com</strong></li>
   </ul>
