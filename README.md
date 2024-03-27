@@ -1,35 +1,36 @@
-<!-- Start of HTML code -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rahma Jemai - Data Scientist</title>
 </head>
 <body>
-  <h1 align="center">Hi 👋, I'm Rahma Jemai</h1>
-  <h3 align="center">Data Scientist | Data Analyst | Machine Learning | Natural Language Processing | ASR</h3>
-  
-  <ul align="center">
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/RahmaJemai">https://github.com/RahmaJemai</a></li>
-    <li>📫 How to reach me <strong>jemaiii.rahmaa@gmail.com</strong></li>
-</ul>
 
+  <img src="https://blog.businessdecision.com/wp-content/uploads/2019/08/best-of-data-science-decryptage-700.jpg" alt="Data Science" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
+  <h1 style="text-align: center;">Hi 👋, I'm Rahma Jemai</h1>
+  <h3 style="text-align: center;">Data Scientist from & Data Analyst & Machine Learning & Natural Language Processing & ASR</h3>
   
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/rahma-jemai-/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
-  </a>
-  <!-- Ajoutez d'autres liens et logos pour d'autres plateformes -->
+  <ul style="text-align: center;">
+    <span style="margin-right: 5px;">👔</span>I’m currently working at Zeta Technologie
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/RahmaJemai">https://github.com/RahmaJemai</a></li>
+    <li>📫 How to reach me: <strong>jemaia.rahma@gmail.com</strong></li>
+  </ul>
+
+  <h3 style="text-align: center;">Connect with me:</h3>
+  <p style="text-align: center;">
+    <a href="https://www.linkedin.com/in/rahma-jemai-/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
+    </a>
+    <!-- Add more social media links and logos -->
   </p>
 
-  ### About Me
+  <h2 style="text-align: center;">About Me</h2>
 
-  <p>I'm Rahma Jemai from Tunisia, passionate about the field of data science, with a solid background in data analysis and machine learning engineering. I specialize in natural language processing and automatic 
-  speech recognition (ASR). My goal is to tackle complex problems by harnessing the power of data and artificial intelligence.</p>
+  <p style="text-align: center;">I'm Rahma Jemai from Tunisia, passionate about the field of data science, with a solid background in data analysis and machine learning engineering. I specialize in natural language processing and automatic speech recognition (ASR). My goal is to tackle complex problems by harnessing the power of data and artificial intelligence.</p>
 
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
+  <h2 style="text-align: center;">Languages and Tools</h2>
+  <p style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" title="R">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="SQL">
@@ -49,30 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET">
     <!-- Ajoutez d'autres outils et leurs logos correspondants -->
 </p>
-Projects
-
-<ul>
-  <li>
-    <strong>Sentiment Analysis with NLP</strong>
-    <ul>
-      <li>Developed a sentiment analysis model using NLP techniques to understand customer opinions and improve satisfaction.</li>
-      <!-- <li><a href="LINK_TO_YOUR_PROJECT_1" target="_blank">GitHub Link</a></li> -->
-    </ul>
-  </li>
-
-  <li>
-    <strong>Speech Recognition with Deep Learning</strong>
-    <ul>
-      <li>Created a speech recognition model (ASR) based on deep neural networks for increased accuracy in audio transcription.</li>
-      <!-- <li><a href="LINK_TO_YOUR_PROJECT_2" target="_blank">GitHub Link</a></li> -->
-    </ul>
-  </li>
-  
-</ul>
 
 </body>
 </html>
-<!-- End of HTML code -->
-
-
-
