@@ -8,12 +8,13 @@
 
   <img src="https://blog.businessdecision.com/wp-content/uploads/2019/08/best-of-data-science-decryptage-700.jpg" alt="Data Science" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
   <h1 style="text-align: center;">Hi 👋, I'm Rahma Jemai</h1>
-  <h3 style="text-align: center;">Data Scientist from & Data Analyst & Machine Learning & Natural Language Processing & ASR</h3>
+  <h3 style="text-align: center;"> Data Scientist | Data Analyst 
+              Machine Learning & Natural Language Processing & ASR </h3>
   
   <ul style="text-align: center;">
     <li><span style="margin-right: 5px;">👔</span>I’m currently working at Zeta Technologie</li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/RahmaJemai">https://github.com/RahmaJemai</a></li>
-    <li>📫 How to reach me: <strong>jemaia.rahma@gmail.com</strong></li>
+    <li>📫 How to reach me: <strong>jemaiii.rahmaa@gmail.com</strong></li>
   </ul>
 
   <h3 style="text-align: center;">Connect with me:</h3>
