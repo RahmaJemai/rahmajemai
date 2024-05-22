@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <img src="https://blog.businessdecision.com/wp-content/uploads/2019/08/best-of-data-science-decryptage-700.jpg" alt="Data Science" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;"> 
+  <!-- <img src="https://blog.businessdecision.com/wp-content/uploads/2019/08/best-of-data-science-decryptage-700.jpg" alt="Data Science" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">  -->
   <h1 style="text-align: center;">Hi 👋, I'm Rahma Jemai</h1>
   <h3 style="text-align: center;"> Data Scientist | Data Analyst  </br>
               Machine Learning & Natural Language Processing & ASR </h3>
